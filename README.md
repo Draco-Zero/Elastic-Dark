@@ -1,6 +1,3 @@
-# Elastic-Dark
-Dark version of the standard Elastic theme for Roundcube.
-
 ![](https://s3.dracoserver.ru/elasticdark1.png)
 
 # Setup
