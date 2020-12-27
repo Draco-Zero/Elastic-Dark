@@ -1,7 +1,7 @@
 # Elastic-Dark
 Dark version of the standard Elastic theme for Roundcube.
 
-![](https://s3.dracoserver.ru/elasticdark.PNG)
+
 
 # Setup
 1. Upload the `skins/elastic` folder to the path `/usr/share/roundcube/skins/`
